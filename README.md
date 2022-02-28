@@ -1,5 +1,6 @@
 # PortBuilderWithUnity
-유니티 항만 빌더
+유니티로 제작한 항만 빌더
+
 ![bandicam 2022-02-28 22-20-07-669](https://user-images.githubusercontent.com/97109063/155991088-3bedf5a2-f38a-44ad-b410-b4cc98b6a9b9.gif)
 
 배혜림 교수님 학부연구생일때 진행한 프로젝트입니다.
