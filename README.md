@@ -1,7 +1,7 @@
 # PortBuilderWithUnity
-유니티로 제작한 항만 빌더
+과제명 : 스마트 항만 IoT 인프라 구축기술 개발
 
-A port builder built by Unity
+Assingment : Development of Smart Port IoT Infrastructure Construction Technology
 
 ![bandicam 2022-02-28 22-20-07-669](https://user-images.githubusercontent.com/97109063/155991088-3bedf5a2-f38a-44ad-b410-b4cc98b6a9b9.gif)
 
